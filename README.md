@@ -1,40 +1,46 @@
-# 🚀 Welcome to My GitHub Projects Hub!
-Hi there! I'm passionate about building impactful projects and contributing to open source. Below is a curated list of my favorite creations and collaborations.
+# 🚀 My Projects & Contributions
+
+Hi! I love building and contributing to meaningful software. Here's a list of some of my favorite projects:
 
 ---
 
-## 🛠️ My Projects
+## 🧑‍💻 My Projects
 
-| Project | Description | Tech Stack | Link |
-|--------|-------------|------------|------|
-| 🎮 **GameX** | A 2D multiplayer game built in React & Firebase | React, Firebase, HTML5 Canvas | [View Repo](https://github.com/yourusername/gamex) |
-| 🏪 **Cafe Manager** | Smart café billing system based on table numbers | Python, Tkinter, MySQL | [View Repo](https://github.com/yourusername/cafe-manager) |
-| 📱 **CodeGenie** | A Flutter app that generates code using AI | Flutter, Gemini API | [View Repo](https://github.com/yourusername/codegenie) |
-| 📡 **WiFi Attendance System** | Tracks employee login/logout using MAC address and WiFi | Python, Tkinter, MySQL | [View Repo](https://github.com/yourusername/wifi-attendance) |
+### 🎮 [GameX](https://github.com/yourusername/gamex)
+A 2D multiplayer game built using React and Firebase.
 
----
+### ☕ [Cafe Manager](https://github.com/yourusername/cafe-manager)
+Smart café billing system using table numbers and receipt generation.
 
-## 🤝 Projects I Contributed To
+### 📱 [CodeGenie](https://github.com/yourusername/codegenie)
+A Flutter app that generates coding solutions using the Gemini API.
 
-| Project | Description | My Contribution | Link |
-|--------|-------------|------------------|------|
-| 💬 **OpenChatX** | An AI-powered chatbot for websites | Bug fixes & frontend improvements | [View Repo](https://github.com/otherdev/openchatx) |
-| 🌐 **DevLinkHub** | Portfolio & social link aggregator for developers | Added themes & dark mode support | [View Repo](https://github.com/otherdev/devlinkhub) |
+### 📡 [WiFi Attendance System](https://github.com/yourusername/wifi-attendance)
+Tracks employee login/logout time using MAC address and office WiFi.
 
 ---
 
-## 🌟 Featured
+## 🤝 Contributed Projects
 
-> 🔖 Check out my pinned repositories on my profile for more highlights!  
-> 📫 Want to collaborate or need help? [Reach out to me!](mailto:your-email@example.com)
+### 💬 [OpenChatX](https://github.com/otherdev/openchatx)
+AI chatbot project – contributed to frontend bug fixes and UX.
+
+### 🌐 [DevLinkHub](https://github.com/otherdev/devlinkhub)
+Social portfolio site – added dark mode and theming options.
+
+---
+
+## 🌟 Want to See More?
+
+Check my [pinned repositories](https://github.com/yourusername?tab=repositories) or scroll down to explore more.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="400" />
 </p>
 
 ---
@@ -47,4 +53,4 @@ Hi there! I'm passionate about building impactful projects and contributing to o
 
 ---
 
-_Thanks for visiting! ⭐ Don't forget to check out my repositories and give them a star if you find them useful!_
+_Thanks for visiting! ⭐ Don’t forget to check out and star your favorite projects!_
