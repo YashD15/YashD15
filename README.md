@@ -39,8 +39,8 @@ Check my [pinned repositories](https://github.com/yourusername?tab=repositories)
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varad11220&show_icons=true&theme=radical" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varad11220&layout=compact&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YashD15&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashD15&layout=compact&theme=radical" width="400" />
 </p>
 
 ---
