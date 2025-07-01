@@ -17,7 +17,7 @@
 ---
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://linkedin.com/in/yashdhavde" target="_blank">
     <img src="https://img.shields.io/badge/Connect on LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
