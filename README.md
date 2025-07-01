@@ -2,17 +2,13 @@
 
 ---
 
-- [GameX](https://github.com/yourusername/gamex) - A 2D multiplayer game built using React and Firebase.
+- [Doodle Homes (Villa-Booking App)](https://github.com/) - QWERTY.
 
-- [Cafe Manager](https://github.com/yourusername/cafe-manager) - Café billing system based on table number with receipt generation.
+- [Cafe Management System](https://github.com/) - Café billing system based on table number with receipt generation.
 
-- [CodeGenie](https://github.com/yourusername/codegenie) - Flutter app that generates coding solutions using Gemini API.
+- [CodeGenie](https://github.com/) - Flutter app that generates coding solutions using Gemini API.
 
-- [WiFi Attendance System](https://github.com/yourusername/wifi-attendance) - Tracks employee attendance via MAC address over WiFi.
-
-- [OpenChatX](https://github.com/otherdev/openchatx) - Contributed to UI improvements in an AI-powered chatbot.
-
-- [DevLinkHub](https://github.com/otherdev/devlinkhub) - Added theming and dark mode to a portfolio aggregator.
+- [WiFi Attendance System](https://github.com/) - Tracks employee attendance via MAC address over WiFi.
 
 ---
 
