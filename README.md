@@ -1,11 +1,4 @@
-<p align="left">
-  <strong>🛠️ My Projects & Contributions</strong>
-</p>
-<p align="right">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
-  </a>
-</p>
+## 🛠️ My Projects & Contributions
 
 ---
 
@@ -20,3 +13,11 @@
 - [OpenChatX](https://github.com/otherdev/openchatx) - Contributed to UI improvements in an AI-powered chatbot.
 
 - [DevLinkHub](https://github.com/otherdev/devlinkhub) - Added theming and dark mode to a portfolio aggregator.
+
+---
+
+<p align="left">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/Connect on LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
