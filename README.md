@@ -1,4 +1,4 @@
-<div align="justify">
+<div align="justify-items">
   <h2 align="left">🛠️ My Projects & Contributions</h2>
   <p align="right">
     <a href="https://linkedin.com/in/yourprofile" target="_blank">
