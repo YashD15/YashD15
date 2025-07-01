@@ -1,15 +1,11 @@
-<table width="100%">
-  <tr>
-    <td align="left">
-      <h2>🛠️ My Projects & Contributions</h2>
-    </td>
-    <td align="right">
-      <a href="https://linkedin.com/in/yourprofile" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <strong>🛠️ My Projects & Contributions</strong>
+</p>
+<p align="right">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
@@ -24,5 +20,3 @@
 - [OpenChatX](https://github.com/otherdev/openchatx) - Contributed to UI improvements in an AI-powered chatbot.
 
 - [DevLinkHub](https://github.com/otherdev/devlinkhub) - Added theming and dark mode to a portfolio aggregator.
-
----
