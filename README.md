@@ -1,11 +1,15 @@
-<div align="justify-items">
-  <h2 align="left">🛠️ My Projects & Contributions</h2>
-  <p align="right">
-    <a href="https://linkedin.com/in/yourprofile" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-    </a>
-  </p>
-</div>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <h2>🛠️ My Projects & Contributions</h2>
+    </td>
+    <td align="right">
+      <a href="https://linkedin.com/in/yourprofile" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
