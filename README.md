@@ -1,8 +1,6 @@
 <h1 align="center">Hi👋, My name is Yash Dhavde</h1>
-<p style="font-size: 18px; line-height: 1.6;">
-  I am a passionate <strong>software developer</strong> who loves to create things that are 
-  <span style="color: #2ecc71;"><em>useful</em></span> in everyday life and 
-  <span style="color: #3498db;"><em>fun</em></span> to build.
+<p align="center">
+  I am a passionate <strong>software developer</strong> who loves to create things that are useful</em></span> in everyday life and fun to build.
 </p>
 
 
