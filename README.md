@@ -9,11 +9,23 @@
 
 - [Doodle Homes (Villa-Booking App)](https://github.com/Varad11220/dh-varad.git) - A villa booking app with many more options like food & activites for Visitors.
 
-- [Cafe Management System](https://github.com/) - Café billing system based on table number with receipt generation.
+- [ITSA 2024-25](https://github.com/YashD15/itsa-pvppcoe.git) - Website for ITSA 2024-25 VPPCOE.
 
-- [CodeGenie](https://github.com/) - Flutter app that generates coding solutions using Gemini API.
+- [Cafe Management System](https://github.com/11-Yash/cafe-management-web-app.git) - Café billing system based on table number with receipt generation and UPI pay QR.
 
-- [WiFi Attendance System](https://github.com/) - Tracks employee attendance via MAC address over WiFi.
+- [CodeGenie](https://github.com/YashD15/CodeGenie.git) - Flutter app that generates coding solutions using Gemini API.
+
+- [WiFi Attendance System](https://github.com/11-Yash/Wifi-based-attendance-system.git) - Tracks employee attendance and work hours via MAC address over Wi-Fi.
+
+- [J.A.R.V.I.S.](https://github.com/Varad11220/jarvis2.0.git) - Python based voice based Desktop automation tool.
+
+- [Gate Pass System](https://github.com/YashD15/Gate-Pass-System.git) - Diploma Project which create a physical card for visitors.
+
+- [CSS Battle Game](https://github.com/Johnny-main/tech-craft-css.git) - Similar to CSS Battle game, where player have to code CSS for given image.
+
+- [HEX Battle Game](https://github.com/YashD15/Tech-Craft-HEXbattle.git) - Guess the HEX code of given color in less time to win.
+
+- [Debate Vote System](https://github.com/YashD15/Debate-Vote-System.git) - Voting system for a Debate Event.
 
 ---
 
