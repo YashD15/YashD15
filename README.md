@@ -1,3 +1,9 @@
+<h1 align="center">Hi👋, My name is Yash Dhavde</h1>
+<h3 align="center">A passionate software enginner from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YashD15&label=Profile%20views&color=0e75b6&style=flat" alt="YashD15" /> </p>
+
+
 ## 🛠️ My Projects & Contributions
 
 ---
