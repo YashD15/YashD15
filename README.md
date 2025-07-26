@@ -3,16 +3,6 @@
   I am a passionate <strong>software developer</strong> who loves to create things that are useful</em></span> in everyday life and fun to build.
 </p>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashD15&layout=compact&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashD15&show_icons=true&theme=radical)
-
-
-
-
-
-
 ## 🛠️ My Projects & Contributions
 
 ---
