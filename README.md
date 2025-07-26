@@ -1,13 +1,13 @@
 <h1 align="center">Hi👋, My name is Yash Dhavde</h1>
 <p align="center">
-  I am a passionate <strong>software developer</strong> who loves to create things that are useful</em></span> in everyday life and fun to build.
+  I am a passionate <strong>Software Developer</strong> who loves to create things that are useful in everyday life and fun to build.
 </p>
 
 ## 🛠️ My Projects & Contributions
 
 ---
 
-- [Doodle Homes (Villa-Booking App)](https://github.com/) - QWERTY.
+- [Doodle Homes (Villa-Booking App)](https://github.com/Varad11220/dh-varad.git) - A villa booking app with many more options like food & activites for Visitors.
 
 - [Cafe Management System](https://github.com/) - Café billing system based on table number with receipt generation.
 
