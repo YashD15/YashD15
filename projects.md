@@ -8,9 +8,11 @@
 
 - [Dashboard Deck](https://github.com/YashD15/Dashboard-Deck.git) - Remote input through mobile device to Desktop using Websocket.
 
-- [HEX Battle Game](https://github.com/YashD15/Tech-Craft-HEXbattle.git) - Guess the HEX code of given color in less time to win.
+- [SQL Game](https://github.com/YashD15/SQL-Game.git) - SQL Query based Game for a event.
 
 - [Stock Info Fetcher](https://github.com/YashD15/Stock-Info-Fetcher.git) - Fetch details for a Stock under NSE using Scrapper.
+
+- [HEX Battle Game](https://github.com/YashD15/Tech-Craft-HEXbattle.git) - Guess the HEX code of given color in less time to win.
 
 - [Pokemon Guess Game](https://github.com/YashD15/Pokemon-Guess-Game.git) - Based on PokeAPI guess detailes of pokemon by image.
 
@@ -39,5 +41,6 @@
 - [Mountaineer Health Tracker](https://github.com/Varad11220/snl.git) - Mobile app to track sensor inputs.
 
 - [Debate Vote System](https://github.com/YashD15/Debate-Vote-System.git) - Voting system for a Debate Event.
+
 
 ---
