@@ -1,6 +1,6 @@
 # 🌐 My Favorite Websites Collection
 
-🔙 [Back to Home](README.md)
+🔙 [Back to Home](https://github.com/YashD15)
 
 ---
 
@@ -10,17 +10,17 @@
 
 - [AutoDraw](https://www.autodraw.com/) - Auto draw suggest for your draw.
 
-- [UIDeck](https://uideck.com/) - UI Templates.
-
-- [Appalchemy](https://appalchemy.ai/) - Mock App UI.
-
 - [OpenML](https://www.openml.org/) - Datasets.
 
 - [ChatGPT](https://chatgpt.com/)- ChatGPT.
 
 - [Bolt](https://bolt.new/) - AI coding Agent.
 
+- [Lovable](https://lovable.dev/) - AI App builder.
+
 - [BlackBox](https://www.blackbox.ai/) - Black Box AI.
+
+- [UX4G](https://doc.ux4g.gov.in/) - Similar to TailwindCSS but Indian Gov.
 
 ---
 
@@ -34,8 +34,6 @@
 
 - [UiVerse](https://uiverse.io/) - Component Library.
 
-- [Widecanvas](https://www.widecanvas.ai/) - Tailwind based Component build.
-
 - [MagicUI](https://magicui.design/) - Ready made Components.
 
 ---
@@ -47,8 +45,6 @@
 - [QuickRef](https://quickref.me/) - Coding cheat sheet.
 
 - [Roadmap](https://roadmap.sh/) - Roadmap for any Domain.
-
-- [ProjectAI](https://projectai.in/) - Learn by creating project.
 
 - [Devdocs](https://devdocs.io/) - Learn with examples any.
 
@@ -68,11 +64,7 @@
 
 - [TextBehindImage](https://textbehindimage.com/) - Add Text behind a image.
 
-- [Mult](https://mult.dev/) - Travel Map Animation.
-
 - [Namelix](https://namelix.com/) - Name for project or brand.
-
-- [Storytribe](https://storytribeapp.com/) - Manga style story building.
 
 - [Simplewall](https://github.com/henrypp/simplewall) - Firewall.
 
@@ -100,11 +92,13 @@
 
 - [Dungeonscrawl](https://www.dungeonscrawl.com/) - 2D game like map builder. 
 
-- [Hackerone CTF](https://ctf.hacker101.com/) - Hacker one CTF game.
-
 - [iFixit](https://www.ifixit.com/) - Fix any thing step by step.
 
 - [GTA Geoguesser](https://gta-geoguesser.com/) - Geoguesser for GTA 5 map.
+
+- [Carsized](https://www.carsized.com/en/) - Car sized compare and more.
+
+- [Animagraffs](https://animagraffs.com/) - Anime infographs abotu everything.
 
 ---
 
