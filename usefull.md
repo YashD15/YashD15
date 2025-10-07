@@ -36,6 +36,8 @@
 
 - [MagicUI](https://magicui.design/) - Ready made Components.
 
+- [AnimeJS](https://animejs.com/) - Animated components.
+
 ---
 
 ## 🧠 Learning Platforms
@@ -74,6 +76,8 @@
 
 - [Musicca](https://www.musicca.com/) - Learn Music Instruments.
 
+- [Playyourroom](https://www.planyourroom.com/) - Design 2D Room measurement.
+
 ---
 
 ## 📦 Others
@@ -81,6 +85,8 @@
 - [Wsupercars](https://www.wsupercars.com/) - Car wallpapers.
 
 - [Warzone Map](https://warzonetacmap.online/) - Warzone Tac Map.
+
+- [Mapgenie](https://mapgenie.io/) - Interactive map with legends for various games.
 
 - [Bloxd](https://bloxd.io/) - Online Multiplayer Minecraft.
 
@@ -100,6 +106,9 @@
 
 - [Animagraffs](https://animagraffs.com/) - Anime infographs abotu everything.
 
+- [Play phrase](https://www.playphrase.me/#/search?language=en) - Play phrase of movie.
+
 ---
+
 
 > 💡 **Tip:** You can fork this repo and add your own favorite websites to the list!
