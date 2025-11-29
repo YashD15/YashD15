@@ -38,6 +38,8 @@
 
 - [AnimeJS](https://animejs.com/) - Animated components.
 
+- [ReactBits](https://reactbits.dev/) - React Components.
+
 ---
 
 ## 🧠 Learning Platforms
@@ -70,7 +72,7 @@
 
 - [Simplewall](https://github.com/henrypp/simplewall) - Firewall.
 
-- [Keyhacks](https://github.com/streaak/keyhacks) - Test API keys.
+- [Keyhacks](https://github.com/streaak/keyhacks) - Test random API keys.
 
 - [TV Garden](https://tv.garden/) - Live TV.
 
@@ -88,10 +90,6 @@
 
 - [Mapgenie](https://mapgenie.io/) - Interactive map with legends for various games.
 
-- [Bloxd](https://bloxd.io/) - Online Multiplayer Minecraft.
-
-- [Slowroads](https://slowroads.io/) - Infinite Drive.
-
 - [Buildcores](https://buildcores.com/) - Build 3D PC and test performance.
 
 - [3D Tuning](https://www.3dtuning.com/en-US/) - Tune Cars Game.
@@ -100,15 +98,27 @@
 
 - [iFixit](https://www.ifixit.com/) - Fix any thing step by step.
 
-- [GTA Geoguesser](https://gta-geoguesser.com/) - Geoguesser for GTA 5 map.
-
 - [Carsized](https://www.carsized.com/en/) - Car sized compare and more.
 
-- [Animagraffs](https://animagraffs.com/) - Anime infographs abotu everything.
+- [Animagraffs](https://animagraffs.com/) - Anime infographs about everything.
 
 - [Play phrase](https://www.playphrase.me/#/search?language=en) - Play phrase of movie.
 
+- [WatchAnimeWorld](https://watchanimeworld.in/) - Anime and Cartoons.
+
 ---
 
+## 🎮 Games
+
+- [Bloxd](https://bloxd.io/) - Online Multiplayer Minecraft.
+
+- [Slowroads](https://slowroads.io/) - Infinite Drive.
+
+- [GTA Geoguesser](https://gta-geoguesser.com/) - Geoguesser for GTA 5 map.
+
+- [Neal.fun](https://neal.fun/) - Random games.
+
+---
 
 > 💡 **Tip:** You can fork this repo and add your own favorite websites to the list!
+
