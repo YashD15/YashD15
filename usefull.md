@@ -6,11 +6,21 @@
 
 ## 🚀 Development
 
-- [Excalidraw](https://excalidraw.com/) - Whiteboard share.
-
-- [AutoDraw](https://www.autodraw.com/) - Auto draw suggest for your draw.
-
 - [OpenML](https://www.openml.org/) - Datasets.
+
+- [UX4G](https://doc.ux4g.gov.in/) - Similar to TailwindCSS but Indian Gov.
+
+- [UiVerse](https://uiverse.io/) - Component Library.
+
+- [MagicUI](https://magicui.design/) - Ready made Components.
+
+- [AnimeJS](https://animejs.com/) - Animated components.
+
+- [ReactBits](https://reactbits.dev/) - React Components.
+
+---
+
+## 🤖 AI Tools
 
 - [ChatGPT](https://chatgpt.com/)- ChatGPT.
 
@@ -20,11 +30,13 @@
 
 - [BlackBox](https://www.blackbox.ai/) - Black Box AI.
 
-- [UX4G](https://doc.ux4g.gov.in/) - Similar to TailwindCSS but Indian Gov.
-
 ---
 
 ## 🎨 Design & UI/UX
+
+- [Excalidraw](https://excalidraw.com/) - Whiteboard share.
+
+- [AutoDraw](https://www.autodraw.com/) - Auto draw suggest for your draw.
 
 - [Storyset](https://storyset.com/) - Free Illustartions.
 
@@ -32,13 +44,7 @@
 
 - [BGjar](https://bgjar.com/) - Free SVG generator.
 
-- [UiVerse](https://uiverse.io/) - Component Library.
-
-- [MagicUI](https://magicui.design/) - Ready made Components.
-
-- [AnimeJS](https://animejs.com/) - Animated components.
-
-- [ReactBits](https://reactbits.dev/) - React Components.
+- [TextBehindImage](https://textbehindimage.com/) - Add Text behind a image.
 
 ---
 
@@ -66,8 +72,6 @@
 
 - [10015](https://10015.io/) - Various Tools.
 
-- [TextBehindImage](https://textbehindimage.com/) - Add Text behind a image.
-
 - [Namelix](https://namelix.com/) - Name for project or brand.
 
 - [Simplewall](https://github.com/henrypp/simplewall) - Firewall.
@@ -79,6 +83,26 @@
 - [Musicca](https://www.musicca.com/) - Learn Music Instruments.
 
 - [Playyourroom](https://www.planyourroom.com/) - Design 2D Room measurement.
+
+---
+
+## 📺 Anime & Shows
+
+- [HiAnime](https://hianime.bz/) - Zoro Tv.
+
+- [WatchAnimeWorld](https://watchanimeworld.in/) - Anime and Cartoons.
+
+---
+
+## 🎮 Games
+
+- [Bloxd](https://bloxd.io/) - Online Multiplayer Minecraft.
+
+- [Slowroads](https://slowroads.io/) - Infinite Drive.
+
+- [GTA Geoguesser](https://gta-geoguesser.com/) - Geoguesser for GTA 5 map.
+
+- [Neal.fun](https://neal.fun/) - Random games.
 
 ---
 
@@ -104,21 +128,8 @@
 
 - [Play phrase](https://www.playphrase.me/#/search?language=en) - Play phrase of movie.
 
-- [WatchAnimeWorld](https://watchanimeworld.in/) - Anime and Cartoons.
-
----
-
-## 🎮 Games
-
-- [Bloxd](https://bloxd.io/) - Online Multiplayer Minecraft.
-
-- [Slowroads](https://slowroads.io/) - Infinite Drive.
-
-- [GTA Geoguesser](https://gta-geoguesser.com/) - Geoguesser for GTA 5 map.
-
-- [Neal.fun](https://neal.fun/) - Random games.
-
 ---
 
 > 💡 **Tip:** You can fork this repo and add your own favorite websites to the list!
+
 
