@@ -86,6 +86,16 @@
 
 - [Playyourroom](https://www.planyourroom.com/) - Design 2D Room measurement.
 
+- [ToolFK](https://www.toolfk.com/) - Random tools.
+
+- [WhatsMyIpAddress](https://whatismyipaddress.com/ip-lookup) - IP Source info.
+
+- [Public APIs](https://github.com/public-apis/public-apis) - Free APIs list.
+
+- [Crontab](https://crontab.guru/) - Cron job duration calculator.
+
+- [PaperMe](https://paperme.pixzens.com/en) - Paper Template to print.
+
 ---
 
 ## 📺 Anime & Shows
@@ -105,6 +115,8 @@
 - [GTA Geoguesser](https://gta-geoguesser.com/) - Geoguesser for GTA 5 map.
 
 - [Neal.fun](https://neal.fun/) - Random games.
+
+- [Glyph](https://glyph.today/) - Guess Word.
 
 ---
 
@@ -134,9 +146,14 @@
 
 - [Play phrase](https://www.playphrase.me/#/search?language=en) - Play phrase of movie.
 
+- [FossFLOW](https://stan-smith.github.io/FossFLOW/) - Services vitualization.
+
+- [Perfectly.Roast](https://candidate.perfectly.so/roast) - Resume Roaster.
+
 ---
 
 > 💡 **Tip:** You can fork this repo and add your own favorite websites to the list!
+
 
 
 
