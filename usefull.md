@@ -56,6 +56,8 @@
 
 - [Roadmap](https://roadmap.sh/) - Roadmap for any Domain.
 
+- [Striver DSA](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z) - DSA Learn Sheet.
+
 - [Devdocs](https://devdocs.io/) - Learn with examples any.
 
 - [Goalkicker](https://books.goalkicker.com/) - Notes for programming.
@@ -65,6 +67,8 @@
 - [Doocs](https://leetcode.doocs.org/) - Leetcode solutions learn.
 
 - [Algorithm Visualizer](https://algorithm-visualizer.org/) - Learn advanced algorithms.
+
+- [Hugging Face AI Agent](https://huggingface.co/learn/agents-course/en/unit0/introduction) - Hugging Face AI Agent Notes.
 
 ---
 
@@ -95,6 +99,12 @@
 - [Crontab](https://crontab.guru/) - Cron job duration calculator.
 
 - [PaperMe](https://paperme.pixzens.com/en) - Paper Template to print.
+
+- [IRCTC - Chart](https://www.irctc.co.in/online-charts/) - Train Charts Details.
+
+- [City Roads](https://anvaka.github.io/city-roads/) - Get Lined road map of a region.
+
+- [WhatsMyIpAddress](https://whatismyipaddress.com/ip-lookup) - Details of an IP.
 
 ---
 
