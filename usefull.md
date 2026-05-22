@@ -70,6 +70,8 @@
 
 - [Hugging Face AI Agent](https://huggingface.co/learn/agents-course/en/unit0/introduction) - Hugging Face AI Agent Notes.
 
+- [Staying.Fun](https://staying.fun/en) - Visualize your code.
+
 ---
 
 ## 🛠️ Tools & Utilities
@@ -137,6 +139,10 @@
 - [Warzone Map](https://warzonetacmap.online/) - Warzone Tac Map.
 
 - [ETS2 Map](https://ets2.online/map/ets2) - ETS2 Map.
+
+- [TruckerMudgeon](https://truckermudgeon.github.io/#4/51/12) - ETS2 Map.
+
+- [MapGenie](https://mapgenie.io/euro-truck-simulator-2/maps/europe) - ETS2 Map.
 
 - [Mapgenie](https://mapgenie.io/) - Interactive map with legends for various games.
 
